@@ -1,0 +1,10 @@
+This project involves cleaning, analyzing, and visualizing a Netflix dataset containing metadata of movies and TV shows from 2008 to 2021.
+The goal is to derive meaningful insights about content trends, genre popularity, country-wise distribution, and more using Python.
+
+Key steps in the project include:
+-Data Cleaning: Removing duplicates, handling nulls, fixing datatypes, and extracting time-based features.
+-Exploratory Data Analysis (EDA): Understanding trends using visualizations (Matplotlib, Seaborn).
+-Insight Generation: Identifying top genres, countries, directors, and release patterns.
+-Visualization: Creating bar plots, line charts, pie charts, and word clouds for a human-friendly interpretation.
+
+This project helps build hands-on experience in data wrangling, analysis, and visual storytelling—essential skills for any aspiring Data Analyst or Data Scientist.
