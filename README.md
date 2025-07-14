@@ -1,0 +1,2 @@
+# Netflix-Data-Cleaning-Analysis
+This repository contains an exploratory analysis of Netflix content trends using historical data from 2008 to 2021. The project focuses on data cleaning, content distribution insights, genre and rating analysis, and trend visualization using Python. It aims to uncover how Netflix's library has evolved over time and provide a clear picture of its global content strategy.
